@@ -11,12 +11,12 @@
 #Testing Output folder
 .output/
 #Extension App-file
-*.app
+appBitcoin Tracker
 #Rapid Application Development File
 rad.json
 #Translation Base-file
-*.g.xlf
+-g.xlf
 #License-file
-*.flf
+-flf
 #Test results file
 TestResults.xml
